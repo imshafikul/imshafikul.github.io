@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"uFAEA,KACE,SACA,UACA,kBAAoB","file":"static/css/main.2ae5432c.css","sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap\");\n\nbody {\n  margin: 0;\n  padding: 0;\n  font-family: Roboto;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
